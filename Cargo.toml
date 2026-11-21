@@ -1,10 +1,10 @@
 [package]
-name = "arch-check"
+name = "sigmaos-check"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-check component - SigmaOS component"
+description = "SigmaOS SigmaOS-check component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-check"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-check"
 
 [dependencies]
 thiserror = "2"
